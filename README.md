@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @walcut
-- 🕶Learning nothing
 - 🤞The NFA your Parents warned you about
 
 <!---
